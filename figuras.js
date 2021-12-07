@@ -30,8 +30,7 @@ function areaTriangulo(base, altura) {
     
 }
 areaTriangulo();
-//  (ladoTriangulo3 * alturaTriangulo) / 2;
-// console.log("el area del triangulo mide " + areaTriangulo + " centimetros cuadrados");
+
 console.groupEnd();
 
 // Circulo
@@ -40,12 +39,13 @@ console.group("Circulo");
 
 const pi = Math.PI;
 
-function diametro(radio) {
+function diametroCirculo(radio) {
     return radio * 2;
 };
 diametro();
 function circunferencia(radio) {
-    return (radio * 2) * pi;
+    const diametro = diametroCirculo(radio);
+    return diametro * pi;
 };
 circunferencia();
 function areaCirculo(radio) {
