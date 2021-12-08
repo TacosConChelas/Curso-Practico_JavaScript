@@ -11,5 +11,10 @@ Un repositorio para el Curso Practico de JS
 -Tercer paso: crear funciones
 -Cuarto paso: integrar JS con HTML
 
+## Taller #2 Porcentajes y Descuentos
 
+-Primer paso: definir las formulas 
+-Segundo paso: inplementar la formulas formulas en JavaScript
+-Tercer paso: crear funciones
+-Cuarto paso: integrar JS con HTML
 
