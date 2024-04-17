@@ -19,6 +19,7 @@ Un repositorio para el Curso Practico de JS
 - Cuarto paso: integrar JS con HTML
 
 ## Taller #3 Funciones
-- Las funciones son pedasos de codigo que nos permiten ejecutarlas en cualquier otra parte de nuestro programa, este mismo puede ser utilizado varias veces 
+- Las funciones son pedasos de codigo que nos permiten ejecutarlas en cualquier otra parte de nuestro programa, este mismo puede ser utilizado varias veces
+mandandola a llamar.  
 
 
