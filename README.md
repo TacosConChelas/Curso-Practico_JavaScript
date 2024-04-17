@@ -24,6 +24,15 @@ Un repositorio para el Curso Practico de JS
 
 ## Taller #3 Funciones
 - Las funciones son pedasos de codigo que nos permiten ejecutarlas en cualquier otra parte de nuestro programa, este mismo puede ser utilizado varias veces
-mandandola a llamar.  
+mandandola a llamar. 
+- Sintaxis:
+
+````
+    function nombreDeLaFuncion(Parametros){
+        //instrucciones
+        //return:
+        return console.log("Este es opcional");
+    }
+````
 
 
