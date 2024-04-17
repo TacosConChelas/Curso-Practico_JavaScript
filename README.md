@@ -45,5 +45,14 @@ Al momento de ser creadas las funciones recuben PARAMETROS y se colocan en los p
 
 #### Tipos: 
 - Switch: este nos permite evaluar una variable dentro de sus parentesis y dependiendo del valor de esta se va a ejecutar un distinto CASE con su respectivo bloque de codigo.
-
+Sintaxis:
+````
+    switch (key) {
+        case value:
+        
+            break;
+        default:
+            break;
+}
+````
 
