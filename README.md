@@ -39,5 +39,11 @@ mandandola a llamar.
 Al momento de ser creadas las funciones recuben PARAMETROS y se colocan en los parentesis, pero cuando usamos las funciones a estas les damos ARGUMENTOS.
 
 ### Condicionales 
+<p>
+    Esta es la forma en la que ejecutamos bloques de codigo dependiendo de una consicion o validacion.
+</p>
+
+#### Tipos: 
+- Switch: este nos permite evaluar una variable dentro de sus parentesis y dependiendo del valor de esta se va a ejecutar un distinto CASE con su respectivo bloque de codigo.
 
 
