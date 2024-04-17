@@ -34,5 +34,9 @@ mandandola a llamar.
         return console.log("Este es opcional");
     }
 ````
+- ¿Cual es la diferencia entre parametros y argumentos de una funcion?
+
+Al momento de ser creadas las funciones recuben PARAMETROS y se colocan en los parentesis, pero cuando usamos las funciones a estas les damos ARGUMENTOS.
+
 
 
