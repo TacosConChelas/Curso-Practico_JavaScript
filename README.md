@@ -38,7 +38,7 @@ mandandola a llamar.
 
 Al momento de ser creadas las funciones recuben PARAMETROS y se colocan en los parentesis, pero cuando usamos las funciones a estas les damos ARGUMENTOS.
 
-### Condicionales 
+### Taller #4 Condicionales 
 <p>
     Esta es la forma en la que ejecutamos bloques de codigo dependiendo de una consicion o validacion.
 </p>
@@ -49,10 +49,28 @@ Sintaxis:
 ````
     switch (key) {
         case value:
-        
+            //instrucciones
             break;
         default:
+            //instrucciones
             break;
-}
+    }
 ````
+- If y Else: estas tienen una condicion que se va a estar alidando, la cual si es verdadera se va a ejecutar el bloque de codigo, además podemos agregar mas de estas y un caso definitivo con el ELSE siendo el ultimo en ejecutarse si las anteriores no se cumplieron.
+Sintaxis:
+````
+   if (condition) {
+      //instrucciones
+    } else {
+      //instrucciones
+    }
+````
+
+### Taller #5 Ciclos
+
+````
+
+````
+
+
 

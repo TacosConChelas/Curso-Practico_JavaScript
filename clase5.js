@@ -6,3 +6,9 @@ switch (key) {
     default:
         break;
 }
+
+if (condition) {
+    
+} else {
+    
+}
