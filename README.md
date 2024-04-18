@@ -67,10 +67,25 @@ Sintaxis:
 ````
 
 ### Taller #5 Ciclos
-
+- FOR: este nos permite inicialisar una variable y usarla (aumentando o reduciendo su valor) para controlar las iteraciones y dependiendo del valor de esta variable el FOR puede serguirse repitiendo o detenerse.
+Sintaxis:
 ````
-
+    for (let index = 0; index < array.length; index++) {
+        const element = array[index];
+    
+    }
 ````
-
+- WHILE y DO WHILE: La diferencia entre el WHILE   y el DO WHILE es que el WHILE primero pregunta si la condición es válida para después ejecutar el código y el DO WHILE primero hace y luego pregunta.
+Sintaxis.
+````
+    //WHILE 
+    while (condition) {
+    
+    }
+    //DO WHILE      
+    do {
+    
+    } while (condition);
+````
 
 
