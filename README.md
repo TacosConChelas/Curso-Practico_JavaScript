@@ -87,5 +87,27 @@ Sintaxis.
     
     } while (condition);
 ````
+### #5 Arrays y Objetos
+- Array: Este puede ser una lista o una coleccion de datos o elementos, de los cuales a cada uno lo identificamos por un indice, este comienza en 0. Estos arreglos pueden ser de una dimencion o de varias.
+
+Sintaxis:
+````
+    const array = [1, "Hola", true, false, null];
+````
+
+- Objetos: Un objeto es una lista de elementos pero cada elemento tiene un nombre clave. Para que cuando queramos usar alguno de estos lo invoquemos por su nombre y no por su posición. Debemos de darle un nombre clavve a cada valor antes de definirlo. a estos nombres de los valores se les conoce como Key o "nombre clave". 
+ 
+Sintaxis:
+````
+    const object = {
+        name: "Adriel",
+        lastName: "Hernandez",
+        id: 2302,
+        age: 20,
+        favoriteColor: red;
+    }
+````
+
+
 
 
