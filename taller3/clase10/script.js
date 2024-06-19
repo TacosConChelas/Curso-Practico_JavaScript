@@ -24,3 +24,5 @@ p2.classList.add("negro");
 p2.classList.remove("negro");
 
 input.value = "22";
+
+console.log(document.createElement("img") );
